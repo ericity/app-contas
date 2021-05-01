@@ -1,0 +1,14 @@
+.obs-box{
+    width: 345px;
+    height: 125px;
+    border-radius: 9px;
+    border: 1px solid #53A9FF91;
+    overflow: hidden;
+    margin: 15px;
+}
+.observations{
+    width: 345px;
+    height: 125px;
+    outline: none;
+    border: none;
+}

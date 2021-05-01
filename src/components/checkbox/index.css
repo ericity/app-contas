@@ -1,0 +1,25 @@
+.check-box{
+    width: 19px;
+    height: 20px;
+    display: flex;
+    border-radius: 50%;
+    border:2px solid #707070;
+    outline: none;
+}
+
+.default-checkbox{
+
+}
+
+.wrapper{
+    display: flex;
+}
+
+.text{
+    width: 35px;
+    height: 23px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-left: 7px;
+}

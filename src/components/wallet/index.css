@@ -1,0 +1,17 @@
+.box-wallets{
+    height: 309px ;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: #ffffff;
+    border: 1px solid #53A9FF69;
+    border-radius: 9px;
+    margin: 16px;   
+}
+
+.wrapper-wallets{
+    width: 314px;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom:16px;
+}

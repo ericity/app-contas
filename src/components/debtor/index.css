@@ -1,0 +1,24 @@
+.debtor{
+    width: 375px;
+    height: 202px;
+    background-color: #EEEEEE;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -24PX;
+    margin-bottom: 18px;
+}
+
+.title-dolla-sign-debtor{
+    width: 41px;
+    height: 40px;
+    font-size: 33px;
+    color: #FF5353;
+}
+
+.total-debtor{
+    width: 168px;
+    height: 40px;
+    font-size: 33px;
+    color: #FF5353;
+}

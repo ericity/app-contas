@@ -1,0 +1,20 @@
+.box-default{
+    width: 345px;
+    height:251px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    background-color: #ffffff;
+    border: 1px solid #53A9FF69;
+    border-radius: 9px;
+    margin: 16px;
+    margin-bottom: 30px;
+}
+
+.wrapper-reservetions{
+    width: 345px;
+    height: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}

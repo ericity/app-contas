@@ -1,0 +1,31 @@
+.box-navigation{
+    width: 375px;
+    height: 50px;
+    background-color: #ffffff;
+    display:flex;
+    align-items: center;
+    justify-content: space-evenly; 
+    box-shadow: 0 0 10px 10px  #00000029;
+}
+
+.navigation-central{
+    width: 56px;
+    height: 56px;
+    border-radius:50%;
+    background-color: #53A9FF;
+    border: none;
+    outline: none;
+    margin-top: -30px;
+}
+
+.button-link{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    width: 25px;
+    height: 25px;
+    outline: none;
+    border:none;
+    border-radius: 50px;
+    cursor:pointer;
+}

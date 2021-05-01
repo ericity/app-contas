@@ -1,0 +1,52 @@
+.box-add-tag{
+    width: 345px;
+    height: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid #53A9FF8F;
+    border-radius: 9px;
+    overflow: hidden;
+}
+
+.add-tag{
+    width: 230px;
+    height: 30px;
+    outline: none;
+    border: none;
+}
+
+.tag{
+    width: 49px;
+    height: 24px;
+    border:1px solid#53A9FF8F;
+    border-radius: 7px;
+    background: #53A9FF;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: #ffffff;
+    margin-left: 3px;
+}
+
+.wrapper-button-add{
+    display: flex;
+    width: 106px;
+    height: 24px;
+    border:1px solid #53A9FF8F;
+    border-radius: 7px;
+    margin-right: 3px;
+}
+
+.button-add{
+    width: 100%;
+    height: 100%;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    outline: none;
+    border: none;
+    font-size: 14px;
+    color: #53A9FF;
+    background-color: transparent;
+}

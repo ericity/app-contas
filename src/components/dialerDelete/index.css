@@ -1,0 +1,27 @@
+.dialer-button-box-delete{
+    width: 60px;
+    height: 60px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.button-dialer-delete{
+    width: 60px;
+    height:60px;
+    border:none;
+    outline:none;
+    background-color: transparent;
+}
+
+.dialer-button-box-none{
+    width: 60px;
+    height: 60px;
+    margin-right: 15px;
+}
+
+.button-dialer-none{
+    border:none;
+    outline: none;
+    background-color: transparent;
+}

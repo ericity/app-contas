@@ -1,0 +1,21 @@
+#root{
+    width: 100%;
+    height: 812px;
+    background-color: #F2F2F2;
+}
+
+.box-default{
+    height: 80px;
+    margin-bottom: 9px;
+}
+
+.purple{
+    background: linear-gradient(141deg,#8053FF,#6F49DB);
+}
+
+.box-wallets{
+    height: 304px;
+}
+
+
+

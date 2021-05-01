@@ -1,0 +1,116 @@
+.title-small{
+    font-size: 20px;
+    color: #53A9FF;
+    margin-top: 19px;
+}
+
+.box-reservetions{
+    display: flex;
+    flex-direction: column;
+}
+
+.icons{
+    width: 45px;
+    height: 45px;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    border-radius: 50%;
+    background: linear-gradient(180grad,#53A9FF,#328DE8);
+}
+
+.sub-titles{
+    color: #707070;
+    font-size: 16px;
+}
+
+.field-loading{
+    width:176px;
+    height: 11px;
+    border: 1px solid #53A9FF;
+    display: flex;
+    justify-content: left;
+    border-radius: 6px;
+    margin-top: 7px;
+}
+
+.load{
+    width:82px;
+    height: 11px;
+    background: linear-gradient(90grad,#53A9FF,#328DE8);
+    border-radius: 6px;
+}
+
+.wrapper-cash{
+    display:flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.dollar-sign{
+    font-size: 14px;
+    color: #53A9FF;
+}
+
+.cash{
+    font-size: 14px;
+    color: #53A9FF;
+}
+
+.information{
+    margin-left: -120px;
+}
+
+.money-total{
+    width: 375px;
+    height:170px;
+    background:linear-gradient(114deg,#53A9FF,#328DE8) ;
+    color: #fff;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: 22px;
+    margin-bottom: -38px;
+}
+
+.money{
+    color:#707070;
+    font-size: 14px;
+}
+
+.info{
+    color:#707070;
+    font-size: 12px;
+}
+
+.title-small{
+    color:#707070;
+    font-size: 14px;
+}
+
+.total{
+    margin-left:-70px;
+    margin-right:-70px;
+}
+
+.purple{
+    background: linear-gradient(141grad,#8053FF,#6F49DB);
+    width: 50px;
+    height:50px;
+}
+
+.red{
+    background: linear-gradient(137grad,#FF5353,#DE5959);
+    width: 50px;
+    height: 50px;
+}
+
+.icons{
+    width: 50px;
+    height: 50px;
+}
+
+.wrapper-wallets{
+    height: 80px;
+    margin:12px;
+}
